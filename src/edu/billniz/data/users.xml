@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+
+<user type="personnel">
+	<id>0</id>
+	<name>Jean Pierre</name>
+	<priority>1</priority>
+	<badge>
+		<id>0</id>
+		<expired_date>12/12/2025</expired_date>
+	</badge>
+</user>
+<user type="rescuer">
+	<id>1</id>
+	<name>Jean Doe</name>
+	<priority>0</priority>
+</user>
+<user type="visitor">
+	<id>1</id>
+	<name>Jean Doe</name>
+	<priority>2</priority>
+</user>
+
+</users>

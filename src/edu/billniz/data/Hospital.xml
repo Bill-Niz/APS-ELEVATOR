@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hospital>
+<number_floor>4</number_floor>
+<number_elevator>3</number_elevator>
+<elevator number=0>
+<active>false</active>
+</elevator>
+
+</hospital>
