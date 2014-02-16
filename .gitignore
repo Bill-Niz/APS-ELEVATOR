@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 /bin
-=======
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
->>>>>>> refs/remotes/origin/master
